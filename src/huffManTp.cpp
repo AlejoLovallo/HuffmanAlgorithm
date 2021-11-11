@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Compresi�n de archivos mediante el algoritmo de Huffman
-// Author      : Juan Guerre�o
+// Author      : Alejo Lovallo
 // Version     : 2.8
 // Copyright   : Your copyright notice
 // Description : Comprimir y Descomprimir
